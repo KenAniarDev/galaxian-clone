@@ -1,4 +1,4 @@
-document.body.style.zoom = 1.2;
+document.body.style.zoom = 0.8;
 
 // Layers
 const startLayer = document.querySelector('.start-layer');
